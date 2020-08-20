@@ -1,2 +1,2 @@
 // Write your code here!
-document.querySelector('')parentNode.removeChild(elem);
+document.querySelector('#main')parentNode.removeChild(elem);
